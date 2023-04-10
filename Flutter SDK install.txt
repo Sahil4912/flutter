@@ -1,0 +1,23 @@
+1) install flutter sdk file (https://docs.flutter.dev/get-started/install/windows)
+   extract file 
+
+2) add path
+   this pc -> properties -> environment variable
+
+3) open cmd 
+    Type:-
+   a) flutter 
+   b) flutter doctor
+ 
+4) install android studio
+   link :- https://developer.android.com/studio
+   open android studio-> more action-> SDK manager-> SDK tools ->download android SDK command-line tools(latest)->apply
+   open cmd -> run flutter doctor-> execute the command given in line 5 -> run 'flutter doctor' again
+
+5) open new flutter project-> add flutter SDK path -> finish
+
+6) open flutter with vs code
+   install extensions 'Dart' and 'Flutter' 
+   open the flutter file
+     
+
